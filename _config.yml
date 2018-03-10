@@ -30,7 +30,7 @@ author:
 # Build settings
 markdown: kramdown
 paginate: 5
-permalink: /:title
+permalink: /:categories/:title
 
 plugins:
   - jekyll-feed

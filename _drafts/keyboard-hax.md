@@ -2,7 +2,8 @@
 layout: post
 title:  "TeleTypewriter Part 1: Mapping the Membrane"
 date:   2018-03-06 22:17:22 -0500
-categories: hardware hacking
+tags: hardware hacking
+categories: blog
 series: typo
 ---
 
